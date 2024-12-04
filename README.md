@@ -1,4 +1,8 @@
-# **Cofrinho**
+<h1 align="center">Cofrinho</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue" alt="Java">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
+</p>
 
 Um projeto simples em **Java** para simular o funcionamento de um cofrinho digital. Este programa oferece funcionalidades para gerenciar economias, permitindo adicionar, remover e consultar valores de forma prática e interativa.
 
@@ -48,5 +52,55 @@ Certifique-se de ter os seguintes itens instalados:
 ## **Como Usar**
 
 ### 1. Clonar o repositório
-```bash
+
 git clone https://github.com/EwertonLealSB/Cofrinho.git
+
+### 2. Navegar para o diretório do projeto
+bash
+Copiar código
+cd Cofrinho
+
+### 3. Compilar e executar
+Compile e execute o programa utilizando o terminal ou sua IDE preferida:
+Via terminal:
+javac Cofrinho.java
+java Cofrinho
+
+Via IDE:
+Abra o projeto na sua IDE.
+Compile e execute o arquivo principal (Cofrinho.java).
+
+Tecnologias Utilizadas
+Java: Linguagem principal utilizada para o desenvolvimento do projeto.
+POO: Implementação de conceitos de Programação Orientada a Objetos.
+
+Estrutura do Projeto
+Cofrinho/
+├── src/
+│   ├── Cofrinho.java    # Arquivo principal do programa
+│   ├── Moeda.java       # Classe para representar moedas
+│   └── ...              # Outras classes auxiliares
+├── README.md            # Documentação do projeto
+└── .gitignore           # Arquivos e pastas ignorados pelo Git
+
+
+Contribuições
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+Faça um fork do projeto.
+Crie uma branch para suas alterações:
+
+git checkout -b minha-nova-feature
+Faça o commit das alterações:
+
+git commit -m "Descrição do que foi alterado"
+Envie para o repositório remoto:
+
+git push origin minha-nova-feature
+Abra um Pull Request.
+
+
+Licença
+Este projeto está licenciado sob a MIT License.
+
+Autor: Desenvolvido por Ewerton Leal. Fique à vontade para entrar em contato!
