@@ -26,6 +26,7 @@
     <li><a href="#estrutura-do-projeto">Estrutura do Projeto</a></li>
     <li><a href="#contribuições">Contribuições</a></li>
     <li><a href="#licença">Licença</a></li>
+    <li><a href="#autor">Autor</a></li>
   </ul>
 
   <hr>
@@ -117,5 +118,7 @@ java Cofrinho</code></pre>
   <h2 id="licença"><strong>Licença</strong></h2>
   <p>Este projeto está licenciado sob a <strong>MIT License</strong>.</p>
 
+  <h2 id="autor"><strong>Autor</strong></h2>
+  <p>Desenvolvido por <a href="https://github.com/EwertonLealSB" target="_blank"><strong>Ewerton Leal</strong></a>. Fique à vontade para entrar em contato!</p>
 </body>
 </html>
