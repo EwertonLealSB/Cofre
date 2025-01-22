@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1 align="center">Cofrinho</h1>
+  <h1 align="center">Cofre</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-17-blue" alt="Java">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License">
