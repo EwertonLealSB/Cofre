@@ -32,7 +32,7 @@
   <hr>
 
   <h2 id="descrição"><strong>Descrição</strong></h2>
-  <p>O projeto <strong>Cofrinho</strong> foi desenvolvido em <strong>Java</strong> e funciona como um cofrinho digital, onde os usuários podem:</p>
+  <p>O projeto <strong>Cofre</strong> foi desenvolvido em <strong>Java</strong> e funciona como um cofre digital, onde os usuários podem:</p>
   <ul>
     <li>Guardar valores.</li>
     <li>Remover valores.</li>
@@ -66,7 +66,7 @@
   <pre><code>git clone https://github.com/EwertonLealSB/Cofrinho.git</code></pre>
 
   <h3>2. Navegar para o diretório do projeto</h3>
-  <pre><code>cd Cofrinho</code></pre>
+  <pre><code>cd Cofre</code></pre>
 
   <h3>3. Compilar e executar</h3>
   <p>Compile e execute o programa utilizando o terminal ou sua IDE preferida:</p>

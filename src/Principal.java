@@ -6,7 +6,7 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n--- Menu Cofrinho ---");
+            System.out.println("\n--- Menu Cofre ---");
             System.out.println("1. Adicionar moeda");
             System.out.println("2. Remover moeda");
             System.out.println("3. Listar moedas");
